@@ -68,15 +68,16 @@ git clone https://github.com/kakarlapudiakhilvarma1/Multi-Agent-Software-Team-Ch
 cd Multi-Agent-Software-Team-Chatbot  
 ```  
 
-### 2️⃣ Set up a virtual environment (optional)  
-```bash
-Create virtual environment using conda
-conda create -p env_name python==3.10 -y
+### 2️⃣ Set up a virtual environment (optional)
 
+Create virtual environment using conda
+```bash
+conda create -p env_name python==3.10 -y
+```
 Activate environment
+```bash
 conda activate env_name/
-  
-```  
+```
 
 ### 3️⃣ Install dependencies  
 ```bash  
